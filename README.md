@@ -5,6 +5,6 @@
 ## palavrão (exibe uma advertência ao usuário e automaticamente deleta a mensagem) e
 ## ainda tem uma mensagem para os que se juntarem ao grupo.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="BOT" height="30" width="40" src="https://icons.iconarchive.com/icons/martin-berube/character/128/Robot-icon.png">
+<div style="display: center"><br>
+  <img align="center" alt="BOT" height="300" width="400" src="https://icons.iconarchive.com/icons/martin-berube/character/128/Robot-icon.png">
  </div>
